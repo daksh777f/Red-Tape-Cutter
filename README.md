@@ -467,8 +467,8 @@ Timeline Creation → Next Action Update → UI Refresh
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/daksh777f/RED-TAPPER-.git
-cd RED-TAPPER-
+git clone https://github.com/daksh777f/Red-Tape-Cutter.git
+cd Red-Tape-Cutter
 ```
 
 2. **Install dependencies**
@@ -706,7 +706,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Daksh**  
 - GitHub: [@daksh777f](https://github.com/daksh777f)
-- Project: [RED-TAPPER](https://github.com/daksh777f/RED-TAPPER-)
+- Project: [RED-TAPPER](https://github.com/daksh777f/Red-Tape-Cutter)
 
 ---
 
